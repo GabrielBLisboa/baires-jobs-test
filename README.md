@@ -15,4 +15,4 @@ The reports with the tests results can be found:
 
 	- As a static Cucumber Report snapshot at the root of this repository
 	
-	- In file exported by IntelliJ at "target/cucumber-reports/Test Results - Feature__search.html"
+	- In a file exported by IntelliJ at "target/cucumber-reports/Test Results - Feature__search.html"
