@@ -6,7 +6,7 @@ Given that we have two methods to find job offers:
 	
 	b) manually type the search term in the searchbox
 
-They should've return the same results, for example, using "QA" as the search term and clicking the "QA/Testing" dropdwon item. 
+I infered that they should've return the same results, for example, clicking the "QA/Testing" dropdwon item or using "QA" as the search term. 
 But the the second method show less jobs offers than the first.
 
 And if we do the search first and then click the same term shown in the dropdown item, even less offers are shown.
