@@ -17,4 +17,4 @@ The reports with the tests results can be found at "target/cucumber-reports/:
 	
 	- As files exported by IntelliJ like "Test Results - Feature__search.html"
 
-### Framework: JUnit5 + Cucumber + Selenium WebDriver + Maven. 
+### Framework: JUnit5 + Cucumber + Selenium WebDriver + Maven
