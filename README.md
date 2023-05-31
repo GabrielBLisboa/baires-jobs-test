@@ -11,7 +11,7 @@ But the the second method show less jobs offers than the first.
 
 And if we do the search first and then click the same term shown in the dropdown item, even less offers are shown.
 
-The reports with the tests results can be found at "target/cucumber-reports/:
+The reports with the tests results can be found at https://github.com/GabrielBLisboa/baires-jobs-test/tree/main/BairesTestes/target/cucumber-reports
 
 	- As a static html Cucumber Report
 	
