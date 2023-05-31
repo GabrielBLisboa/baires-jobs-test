@@ -11,8 +11,8 @@ But the the second method show less jobs offers than the first.
 
 And if we do the search first and then click the same term shown in the dropdown item, even less offers are shown.
 
-The reports with the tests results can be found:
+The reports with the tests results can be found at "target/cucumber-reports/:
 
-	- As a static Cucumber Report snapshot at the root of this repository
+	- As a static Cucumber Report snapshot
 	
-	- In a file exported by IntelliJ at "target/cucumber-reports/Test Results - Feature__search.html"
+	- As files exported by IntelliJ like "Test Results - Feature__search.html"
