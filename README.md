@@ -1,4 +1,4 @@
-## A simple project testing the methods of searching for jobs at https://jobs.bairesdev.com/
+## A simple project testing search methods at https://jobs.bairesdev.com/
 
 Given that we have two methods to find job offers:
   a) click in the search box, wait for the dropdown list and then click in a job title/keyword
