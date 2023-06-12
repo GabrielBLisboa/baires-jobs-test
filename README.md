@@ -1,4 +1,4 @@
-Tive a ideia de fazer esse projeto ao pesquisar algumas vagas de QA em <https://jobs.bairesdev.com/> e perceber que os resultados de pesquisa variavam de acordo com o método utilizado, o que talvez poderia ser uma inconsistência e assim me chamaram a atenção. Formalizei as consultas e e apliquei fundamentos e técnicas como Gerkhin + Cucumber aprendidos curante meu bootcamp Santander Coders.
+Tive a ideia de fazer esse projeto ao pesquisar algumas vagas de QA em <https://jobs.bairesdev.com/> e perceber que os resultados de pesquisa variavam de acordo com o método utilizado, o que talvez poderia ser uma inconsistência e assim me chamaram a atenção. Formalizei as consultas e e apliquei fundamentos e técnicas como Gerkhin + Cucumber aprendidos durante meu bootcamp Santander Coders.
 
 ### Instalação
 
