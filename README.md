@@ -1,4 +1,4 @@
-### A simple project testing search methods at https://jobs.bairesdev.com/
+### Testing search methods at https://jobs.bairesdev.com/
 
 Given that we have two methods to find job offers:
 
