@@ -6,10 +6,10 @@ Given that we have two methods to find job offers:
 	
 	b) manually type the search term in the search box and then Enter
 
-It seems that they should return the same results, for example, by clicking the "QA/Testing" drop-down item or using "QA" as the search term. 
+I inferred that they would return the same results, for example, by clicking the "QA/Testing" drop-down item or using "QA" as the search term. 
 But the second method shows fewer job offers than the first.
 
-And if we do the search first and then click the same term shown in the dropdown item, even fewer offers are shown.
+If we combine the two methods, do the search first and then click the same term shown in the dropdown item, we got a another result.
 
 The reports with the tests results can be found at https://github.com/GabrielBLisboa/baires-jobs-test/tree/main/BairesTestes/target/cucumber-reports
 
