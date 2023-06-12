@@ -1,20 +1,39 @@
-### Testing search methods at https://jobs.bairesdev.com/
+### Instalação
 
-Given that we have two methods to find job offers:
+Para rodar os testes é necessário ter o Maven instalado e criar suas variáveis de dependência
 
-	a) click in the search box, wait for the dropdown list and then click in a job title/keyword
+ Tutorial para Windows, Linux e Mac [aqui.](https://www.baeldung.com/install-maven-on-windows-linux-mac)
+
+### Para rodar o testes pelo prompt de comando do Windows:
+
+Abrir o Prompt de Comando
+
+	Pesquisar -> cmd
 	
-	b) manually type the search term in the search box and then Enter
+Vá até o diretório do arquivo 
 
-I inferred that they would return the same results, for example, by clicking the "QA/Testing" drop-down item or using "QA" as the search term. 
-But the second method shows fewer job offers than the first.
-
-If we combine the two methods, do the search first and then click the same term shown in the dropdown item, we got a another result.
-
-The reports with the tests results can be found at https://github.com/GabrielBLisboa/baires-jobs-test/tree/main/BairesTestes/target/cucumber-reports
-
-	- As a static html Cucumber Report
+	cd .../BairesTestes/
 	
-	- As files exported by IntelliJ like "Test Results - Feature__search.html"
+Dgite o comando + Enter
+
+	mvn test
+
+ Tutorial completo [aqui.](https://toolsqa.com/selenium-cucumber-framework/run-cucumber-test-from-command-line-terminal/)
+
+
+### Teste de métodos de pesquisa disponíveis em: https://jobs.bairesdev.com/
+
+Considerando que temos dois métodos para encontrar ofertas de emprego:
+
+	Clicar na caixa de pesquisa, aguardar a lista suspensa e clicar em um título de emprego/palavra-chave
+	
+	Digitar manualmente o termo de pesquisa na caixa de pesquisa e, em seguida, pressionar Enter
+
+Deduzi que eles retornariam os mesmos resultados, por exemplo, clicando no item suspenso "QA/Testing" ou usando "QA" como termo de pesquisa. 
+Mas o segundo método mostra menos ofertas de emprego do que o primeiro. 
+
+E ao combinar os dois métodos, fazer a pesquisa primeiro e depois clicar no mesmo termo mostrado no item suspenso, obteremos ainda outro resultado.
+
+Uma versão estática do relatório pode ser encontrados na raiz desse repositório como Cucumber Reports.pdf
 
 ### Framework: JUnit5 + Cucumber + Selenium WebDriver + Maven
