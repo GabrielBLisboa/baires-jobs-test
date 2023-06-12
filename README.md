@@ -1,6 +1,8 @@
+Tive a ideia de fazer esse projeto ao pesquisar algumas vagas de QA em <https://jobs.bairesdev.com/> e perceber que os resultados de pesquisa variavam de acordo com o método utilizado, o que talvez poderia ser uma incosistência e assim me chamaram a atenção. Formalizei as consultas e e apliquei fundamentos e técnicas como Gerkhin + Cucumber aprendidos curante meu bootcamp Santander Coders.
+
 ### Instalação
 
-Para rodar os testes é necessário ter o Maven instalado e criar suas variáveis de dependência
+Para rodar os testes é necessário ter o Maven instalado e criar suas variáveis de dependência.
 
  Tutorial para Windows, Linux e Mac [aqui.](https://www.baeldung.com/install-maven-on-windows-linux-mac)
 
@@ -21,7 +23,9 @@ Dgite o comando + Enter
  Tutorial completo [aqui.](https://toolsqa.com/selenium-cucumber-framework/run-cucumber-test-from-command-line-terminal/)
 
 
-### Teste de métodos de pesquisa disponíveis em: https://jobs.bairesdev.com/
+### Aplicação 
+
+Testes para os métodos de pesquisa disponíveis em: https://jobs.bairesdev.com/
 
 Considerando que temos dois métodos para encontrar ofertas de emprego:
 
